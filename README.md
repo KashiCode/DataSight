@@ -1,16 +1,25 @@
 # DataSight
 
 # Introduction
-DataSight is an data science application built using [R](https://www.r-project.org/). 
 
+DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www.rstudio.com/products/shiny/), is an application designed to allow users to upload datasets in `excel` format. This application translates the data into insightful visualizations and conducts statistical analysis, providing users with the ability to explore their datasets through various graphs and techniques.
 
+# Features
 
+# Upcoming Features:
 
+# Usage
 
+# ⚙ Dependencies
 
-Serving as a proof of concept, this application allows users to execute and edit Java files directly within Discord.
+# 📝 Contributing
+Your contributions are always welcome. For major revisions, please start by opening an issue to discuss what you'd like to change.
 
+# 📜 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+# 💼 Contact
+For any inquiries, suggestions, or feedback, don't hesitate to email me at [ostrynskimaks@gmail.com](mailto:ostrynskimaks@gmail.com).
+We encourage suggestions for improvements and new features!
 
-
-Data Visualization and Analytics Tool
+###### KashiCode © 2023
