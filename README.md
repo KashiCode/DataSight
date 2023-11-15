@@ -4,7 +4,7 @@
 
 DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www.rstudio.com/products/shiny/), is an application designed to allow users to upload datasets in `xlsx`, or `csv` format. This application then converts the data into graphical visualizations and conducts statistical analysis.
 
-## Instructions
+## Instructions 
 
 ### Using the Application
 - Ensure your data is structured correctly for the app to interpret it. Refer to the "Example Files" folder in this GitHub repository for guidance.
@@ -12,9 +12,9 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 - Clean and pre-process your data before uploading it to the application.
 - Select the appropriate visualization or statistical feature based on your data and analysis needs.
 
-## Features
+## 🌐 Features
 
-### Visualizations
+### 📌 Visualizations
 1. Table
 2. Histogram
 3. Boxplot (Single and Multiple Categories)
@@ -30,7 +30,7 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 13. Time Series Graph
 14. Q-Q Plot
 
-### Statistical Features
+### 📌 Statistical Features
 1. Standard Deviation
 2. Spearman's Rank
 3. Chi-squared Tests
@@ -43,9 +43,9 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 10. Time Series Analysis
 11. Shapiro-Wilk Test
 
-## Usage ⚙
+## ⚙ Installation
 
-### Installation
+### Installing Software
 1. **Install R**: Download and install R version 4.3.1 or later from [CRAN](https://cran.r-project.org/).
 2. **Install RStudio**: Optionally, install RStudio for an integrated development environment, available at [RStudio Download](https://rstudio.com/products/rstudio/download/).
 
