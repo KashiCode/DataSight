@@ -43,7 +43,7 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 10. Time Series Analysis
 11. Shapiro-Wilk Test
 
-## Usage
+## Usage ⚙
 
 ### Installation
 1. **Install R**: Download and install R version 4.3.1 or later from [CRAN](https://cran.r-project.org/).
@@ -60,21 +60,6 @@ install.packages("DT")
 install.packages("shinydashboard")
 install.packages("reshape2")
 install.packages("forecast")
-```
-
-
-
-# ⚙ Dependencies
-
-```
-R - version 4.3.1
-shiny
-ggplot2
-readxl
-DT
-shinydashboard
-reshape2
-forecast
 ```
 
 # 📝 Contributing
