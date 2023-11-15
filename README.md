@@ -7,15 +7,10 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 ## Instructions
 
 ### Using the Application
-- **Data Structure**: Ensure your data is structured correctly for the app to interpret it. Refer to the "Example Files" folder in our GitHub repository for guidance.
+- **Data Structure**: Ensure your data is structured correctly for the app to interpret it. Refer to the "Example Files" folder in this GitHub repository for guidance.
 - **File Format**: The application accepts CSV and Excel files.
 - **Data Preparation**: Clean and pre-process your data before uploading it to the application.
 - **Choosing Features**: Select the appropriate visualization or statistical feature based on your data and analysis needs.
-
-### Early Development
-- This application is in early development stages.
-- We encourage users to check the "Example Files" for correctly structured data samples.
-- Feedback and suggestions for improvements are welcome.
 
 ## Features
 
@@ -48,10 +43,6 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 10. Time Series Analysis
 11. Shapiro-Wilk Test
 
-## Upcoming Features
-
-- [Add upcoming features here.]
-
 ## Usage
 
 ### Installation
@@ -69,7 +60,7 @@ install.packages("DT")
 install.packages("shinydashboard")
 install.packages("reshape2")
 install.packages("forecast")
-
+```
 
 
 
