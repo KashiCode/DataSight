@@ -46,7 +46,7 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 ## Usage
 
 ### Installation
-1. **Install R**: Download and install R from [CRAN](https://cran.r-project.org/).
+1. **Install R**: Download and install R version 4.3.1 or later from [CRAN](https://cran.r-project.org/).
 2. **Install RStudio**: Optionally, install RStudio for an integrated development environment, available at [RStudio Download](https://rstudio.com/products/rstudio/download/).
 
 ### Installing Dependencies
@@ -65,6 +65,17 @@ install.packages("forecast")
 
 
 # ⚙ Dependencies
+
+```
+R - version 4.3.1
+shiny
+ggplot2
+readxl
+DT
+shinydashboard
+reshape2
+forecast
+```
 
 # 📝 Contributing
 Your contributions are always welcome. For major revisions, please start by opening an issue to discuss what you'd like to change.
