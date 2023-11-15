@@ -7,10 +7,10 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 ## Instructions
 
 ### Using the Application
-- **Data Structure**: Ensure your data is structured correctly for the app to interpret it. Refer to the "Example Files" folder in this GitHub repository for guidance.
-- **File Format**: The application accepts CSV and Excel files.
-- **Data Preparation**: Clean and pre-process your data before uploading it to the application.
-- **Choosing Features**: Select the appropriate visualization or statistical feature based on your data and analysis needs.
+- Ensure your data is structured correctly for the app to interpret it. Refer to the "Example Files" folder in this GitHub repository for guidance.
+- The application only accepts CSV and Excel files.
+- Clean and pre-process your data before uploading it to the application.
+- Select the appropriate visualization or statistical feature based on your data and analysis needs.
 
 ## Features
 
