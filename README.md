@@ -11,7 +11,7 @@ DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www
 - Clean and pre-process your data before uploading it to the application.
 - Select the appropriate visualization or statistical feature based on your data and analysis needs.
 
-![Datasightapp](https://imgur.com/za0tQ81)
+![Datasightapp](https://i.imgur.com/za0tQ81.jpg)
 
 ## 🌐 Features
 
