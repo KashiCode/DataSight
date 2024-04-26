@@ -4,8 +4,6 @@
 
 DataSight, created using [R](https://www.r-project.org/) and [Shiny](https://www.rstudio.com/products/shiny/), is an application designed to allow users to upload datasets in `xlsx`, or `csv` format. This application then converts the data into graphical visualizations and conducts statistical analysis.
 
-![HorseRace](https://i.imgur.com/7SLC05o.png)
-
 ## Instructions 
 
 - Ensure your data is structured correctly for the app to interpret it. Refer to the "Example Files" folder in this GitHub repository for guidance.
